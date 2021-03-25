@@ -1,0 +1,21 @@
+C:\Users\Nidhi\source\repos\PsVproject\bin\PsVproject.dll.config
+C:\Users\Nidhi\source\repos\PsVproject\bin\PsVproject.dll
+C:\Users\Nidhi\source\repos\PsVproject\bin\PsVproject.pdb
+C:\Users\Nidhi\source\repos\PsVproject\obj\Debug\PsVproject.csprojAssemblyReference.cache
+C:\Users\Nidhi\source\repos\PsVproject\obj\Debug\PsVproject.csproj.CoreCompileInputs.cache
+C:\Users\Nidhi\source\repos\PsVproject\obj\Debug\PsVproject.dll
+C:\Users\Nidhi\source\repos\PsVproject\obj\Debug\PsVproject.pdb
+C:\Users\Hridyansh Gupta\source\repos\PsVproject\bin\PsVproject.dll.config
+C:\Users\Hridyansh Gupta\source\repos\PsVproject\bin\PsVproject.dll
+C:\Users\Hridyansh Gupta\source\repos\PsVproject\bin\PsVproject.pdb
+C:\Users\Hridyansh Gupta\source\repos\PsVproject\obj\Debug\PsVproject.csprojAssemblyReference.cache
+C:\Users\Hridyansh Gupta\source\repos\PsVproject\obj\Debug\PsVproject.csproj.CoreCompileInputs.cache
+C:\Users\Hridyansh Gupta\source\repos\PsVproject\obj\Debug\PsVproject.dll
+C:\Users\Hridyansh Gupta\source\repos\PsVproject\obj\Debug\PsVproject.pdb
+C:\Users\Nidhi\Desktop\proj - Copy\images\PsVproject\PsVproject\bin\PsVproject.dll.config
+C:\Users\Nidhi\Desktop\proj - Copy\images\PsVproject\PsVproject\bin\PsVproject.dll
+C:\Users\Nidhi\Desktop\proj - Copy\images\PsVproject\PsVproject\bin\PsVproject.pdb
+C:\Users\Nidhi\Desktop\proj - Copy\images\PsVproject\PsVproject\obj\Debug\PsVproject.csprojAssemblyReference.cache
+C:\Users\Nidhi\Desktop\proj - Copy\images\PsVproject\PsVproject\obj\Debug\PsVproject.csproj.CoreCompileInputs.cache
+C:\Users\Nidhi\Desktop\proj - Copy\images\PsVproject\PsVproject\obj\Debug\PsVproject.dll
+C:\Users\Nidhi\Desktop\proj - Copy\images\PsVproject\PsVproject\obj\Debug\PsVproject.pdb
